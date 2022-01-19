@@ -1,5 +1,5 @@
-#Kocham warsztat programisty
-##Oto powody dlaczego:
+# Kocham warsztat programisty
+## Oto powody dlaczego:
 
 Jako pierwsze wymienię to jak kocham linuxa
 
