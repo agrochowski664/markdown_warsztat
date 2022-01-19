@@ -1,5 +1,5 @@
-#Kocham warsztat programisty
-##Oto powody dlaczego:
+# Kocham warsztat programisty
+## Oto powody dlaczego:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a augue sem. Phasellus gravida iaculis enim, id consectetur enim cursus eu. Aenean luctus risus ut justo elementum feugiat. Duis iaculis nisi lacus, non ultricies orci finibus non. Phasellus eu finibus risus. In id odio eu enim fringilla tempor sit amet interdum tortor. Maecenas facilisis gravida enim, non tincidunt felis. Sed iaculis ante sed interdum fermentum. Sed erat urna, facilisis et semper in, fringilla quis sem. Pellentesque commodo, lacus vitae maximus gravida, ante erat maximus mauris, ac suscipit est justo et eros. Donec ornare pellentesque turpis at accumsan. Suspendisse tincidunt, elit in cursus sollicitudin, leo enim ullamcorper neque, eu dignissim magna justo sit amet est.
 
